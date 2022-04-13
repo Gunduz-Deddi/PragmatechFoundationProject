@@ -16,4 +16,4 @@ Cavab: 100111111101(2) = 511(10)
 Cavab: 10100000(2)= 160(10)
 ######## 8 interpreter,compiler, object oriented programming, functional programming,imperative programming, declarative programming ifadələrini mənalarını sıra ilə yazın
 Cavab : compiler ve interpreter tercume dilleridir yeni butun proqramlar masin dillerine tercume edilir. Obyekt yonumlu proqramlasdırma boyuk problemleri kicik hisselere bolerek kodlasdirmada tekrara yol vermeden hell etmekdir
-Funksional proqramlasdırma riyazi hesablamalara esaslanan proqramlasdırma dilidir. declarative proqramlasdirma dilidir
+Funksional proqramlasdırma riyazi hesablamalara esaslanan proqramlasdırma dilidir. declarative proqramlasdirma dilidirgi
