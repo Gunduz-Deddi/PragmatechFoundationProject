@@ -1,0 +1,19 @@
+# 1 Binary Code nədir?
+Cavab: ikili kod sistemi demekdir 0 ve 1 lerin komeyi ile yaradilir
+## 2 Machine Language nə deməkdir?
+Cavab: butun proqramlasdirma dilleri kompuetin oxuya bilmesi ucun masin diline cevrilmelidir
+### 3 Machine Language və Binary Code arasında nə əlaqə var?
+Cavab: Masin dili 0 ce 1 lerin komeyi ile yaradilan ikili kod sistemidir
+#### 4 Ram,Harddisk və CPU nun kompyuter daxilindəki vəzifələri nədir?
+Cavab :Ram muveqqeti yaddash sistemidir, melumat saxlama novudur. Hard disk informasiyanin daimi yaddashda saxlanmasi ucundur butun melumatlar burada saxlanılır.CPU mərkəzi prosessor odulu adlanaraq ana plata uzerinde yerlesir ve butun emeliyyatlar bu qurgu terefinden tenzilenir
+##### 5 Transistor nədir?
+Cavab : elektrik siqnallarinin oturmek ve guclendirmek ucun yaradilan elektrik kecirici qurgudur
+###### 6 10-luq say sistemində verilən 983 ədədinin 2-lik say sistemində ifadə edilə bilməsi üçün nə etməliyəm və nəticə nə olacaq?
+Cavab 983(10) = 10011101101
+####### 7 2-lik say sistemində verilən 1001 1111 1101 ədədinin 10-luq say sistemindəki qarşılığını necə tapa bilərəm və nəticə nə olacaq?
+Cavab: 100111111101(2) = 511(10)
+######## 2-lik say sistemində 1000 1111 + 1011 0001 ədədlərini toplama əməlyatını icra edin və nəticəsini 10-luq say sistemində qeyd edin
+Cavab: 10100000(2)= 160(10)
+######## 8 interpreter,compiler, object oriented programming, functional programming,imperative programming, declarative programming ifadələrini mənalarını sıra ilə yazın
+Cavab : compiler ve interpreter tercume dilleridir yeni butun proqramlar masin dillerine tercume edilir. Obyekt yonumlu proqramlasdırma boyuk problemleri kicik hisselere bolerek kodlasdirmada tekrara yol vermeden hell etmekdir
+Funksional proqramlasdırma riyazi hesablamalara esaslanan proqramlasdırma dilidir. declarative proqramlasdirma dilidirgi
