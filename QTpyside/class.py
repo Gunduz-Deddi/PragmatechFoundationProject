@@ -1,1 +1,1 @@
-print("Hello")
+import PySide6
